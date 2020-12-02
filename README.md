@@ -14,24 +14,28 @@ Security Cameras at Golf View Apartments.
 
 #### Personal Areas
 
-- 200Mbps private connection per flat (384).
+- **200Mbps** private connection per **flat** (384).
 - A flat may choose a lower or higher bandwidth.
-- All flats in a block choose a common ISP.
-- Each floor needs 3 security cameras(2 stairs, 1 lift).
-- Up to 6 security cameras per block in ground floor(entrances).
+- All flats in a **block** choose a **common ISP**.
+- Each floor needs **3 security cameras** (2 stairs, 1 lift).
+- Up to **6 security cameras** per **block** in **ground floor** (entrances).
+
 - Flats: 1 WiFi router x 384 flats = 384
 
 
 #### Common Areas
 
-- 200Mbps Public WiFifor each room in club house.
-- Basementshould support up to 15 security cameras.
-- 200Mbps Public WiFi in garden, playgrounds, footpath (10+).
-- Up to 15 security cameras along the footpath (max).
-- 2 HD security cameras at entrance, exit.
-- Centralized security monitoring at A-106 for all blocks.
+- **200Mbps** Public WiFifor each room in **club house**.
+- **Basement** should support up to **15 security cameras**.
+- **200Mbps** Public WiFi in garden, playgrounds, footpath (10+).
+- Up to **15 security cameras** along the **footpath** (max).
+- **2 HD security cameras** at **entrance, exit**.
+- **Centralized security monitoring** at A-106 for all blocks.
+
 - Club House: 4 WiFi AP x 2 floors = 8
 - Garden, Playgrounds, Footpath: 10 WiFiAP (long range)
+<br>
+
 
 See [LAN Design.pdf] for full design, [Diagrams] for XML diagrams,
 [Images] for diagrams exported as PNG.
