@@ -22,6 +22,7 @@ Security Cameras at Golf View Apartments.
 
 Flats: 1 WiFi router x 384 flats = 384
 <br>
+<br>
 
 
 #### Common Areas
