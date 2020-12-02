@@ -33,7 +33,7 @@ Flats: 1 WiFi router x 384 flats = 384
 - **2 HD security cameras** at **entrance, exit**.
 - **Centralized security monitoring** at A-106 for all blocks.
 
-Club House: 4 WiFi AP x 2 floors = 8
+Club House: 4 WiFi AP x 2 floors = 8<br>
 Garden, Playgrounds, Footpath: 10 WiFiAP (long range)
 <br>
 <br>
