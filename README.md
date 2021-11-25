@@ -6,7 +6,14 @@ Security Cameras at Golf View Apartments.
 
 **Course**: Advanced Computer Networks, Monsoon 2020<br>
 **Taught by**: Prof. Shatrunjay Rawat
+
 <br>
+
+
+#### Presentations
+
+- [LAN Design for Golf View Apartments](https://gist.github.com/wolfram77/f4b403b31f60d562b0ab05c821e1fe3f)
+
 <br>
 
 
@@ -27,7 +34,7 @@ Flats: 1 WiFi router x 384 flats = 384
 
 #### Common Areas
 
-- **200Mbps** Public WiFifor each room in **club house**.
+- **200Mbps** Public WiFi for each room in **club house**.
 - **Basement** should support up to **15 security cameras**.
 - **200Mbps** Public WiFi in garden, playgrounds, footpath (10+).
 - Up to **15 security cameras** along the **footpath** (max).
