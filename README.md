@@ -50,6 +50,8 @@ Garden, Playgrounds, Footpath: 10 WiFiAP (long range)
 See [LAN Design.pdf] for full design, [Diagrams] for XML diagrams,
 [Images] for diagrams exported as PNG.
 
+![](https://ga-beacon.deno.dev/G-4FTHWYCNMC:Ze0vK3cdTmSz-bzSssU1-Q/github.com/iiithf/lan-design)
+
 [LAN Design.pdf]: LAN%20Design.pdf
 [Diagrams]: Diagrams
 [Images]: Images
